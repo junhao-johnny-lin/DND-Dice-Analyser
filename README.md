@@ -34,14 +34,6 @@ Voorbeeld van de verwachte uitvoer:
 Worp: d6 = 4, d8 = 7, d20 = 15  ->  totaal = 26
 ```
 
-## Inhoud van deze repository
-
-| Document | Inhoud |
-|---|---|
-| [README.md](README.md) | Doel, demo en interne links (dit bestand) |
-| [OPSTELLING.md](OPSTELLING.md) | Wat hebben we geprobeerd, waarom en hoe? Gekozen methodes en overwogen alternatieven per stap |
-| [RESULTATEN.md](RESULTATEN.md) | Hoe hebben we geëvalueerd en wat zijn de resultaten? Meetwaarden per stap en per omstandigheid |
-
 ## Vereisten en installatie
 
 - Python 3
