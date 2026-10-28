@@ -6,8 +6,8 @@ Een image processing-project dat DnD-dobbelstenen (d4 t/m d20) herkent en aflees
 
 ## Groepsleden
 
-- Junhao Johnny
-- Nick Driessen
+- [Junhao Johnny](https://github.com/junhao-johnny-lin)
+- [Nick Driessen](https://github.com/TheEarthsMoon)
 
 ## Doel
 
